@@ -3,7 +3,7 @@
 **Course:** Licenciatura em Engenharia Informática e Multimédia 
 **Student(s):** Joana Ramos 
 **Date:** 08 março 2026 
-**Repository URL:** ___________
+**Repository URL:** https://github.com/joanar2004/HelloWorld.git
 
 ---
 

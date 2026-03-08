@@ -1,17 +1,8 @@
 # Assignment 1 — Hello Kotlin. Hello Android World!
 
-**Course:** ___________________  
-**Student(s):** ___________________  
-**Date:** _____________________  
-**Repository URL:** ___________
-
----
-
-# Assignment 1 — Hello Kotlin. Hello Android World!
-
-**Course:** Desenvolvimento de Aplicações Móveis
-**Student(s):** ___________________ (nº 50829)  
-**Date:** _____________________  
+**Course:** Licenciatura em Engenharia Informática e Multimédia 
+**Student(s):** Joana Ramos 
+**Date:** 08 março 2026 
 **Repository URL:** ___________
 
 ---

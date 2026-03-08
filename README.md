@@ -31,7 +31,7 @@ O projeto segue a arquitetura padrão do Android para aplicações simples:
 - **Lógica:** Implementada na `MainActivity.kt` em Kotlin.
 - **Recursos:** Separação de strings, cores e dimensões nos ficheiros respetivos em `res/values`.
 
-## 4. Implementation
+## 4. Implementation   
 Os pontos principais da implementação incluem:
 - **Extração de Dados:** Utilização da classe `android.os.Build` para obter detalhes do dispositivo.
 - **Intents:** Uso de `ACTION_SEND` para permitir que o utilizador exporte os dados do sistema para outras aplicações (Email, Mensagens, etc.).
